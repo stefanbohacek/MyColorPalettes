@@ -1,0 +1,68 @@
+.chromeframe {
+	margin: 0.2em 0;
+	background: #ccc;
+	color: #000;
+	padding: 5px;
+}
+
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-size:300% !important;
+	font-family:'Pacifico', cursive !important;
+}
+
+body{
+	background-color: #efefef;
+}
+
+h3{
+	display: inline;
+}
+
+table{
+	table-layout: fixed;
+}
+
+td{
+	color: white;
+	vertical-align: bottom;
+	padding-left: 10px;
+	width: auto;
+	overflow: hidden;
+}
+
+.panel-body{
+	padding: 0;
+}
+
+.color-data {
+	height: 100px;
+	min-height: 100px;
+}
+
+.colors{
+	text-shadow: 1px 1px 3px black;
+	width: 100%;
+}
+
+input{
+	color: gray;
+	width: 100%;
+	padding: 10px 0 10px 0;
+	margin: 10px 0 10px 0;
+}
+
+#tags{
+	font-style: italic;
+	font-size: 0.9em;
+}
+/** Bootstrap v3.0.0 [modified]
+Copyright 2013 Twitter, Inc
+Licensed under the Apache License v2.0
+http://www.apache.org/licenses/LICENSE-2.0
+Designed and built with all the love in the world @twitter by @mdo and @fat. **/
+.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.container:before,.container:after{display:table;content:" "}.container:after{clear:both}.container:before,.container:after{display:table;content:" "}.container:after{clear:both}html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}body{margin:0;}table{border-collapse:collapse;border-spacing:0;}.panel{margin-bottom:20px;background-color:#ffffff;border:1px solid transparent;-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.05);box-shadow:0 1px 1px rgba(0, 0, 0, 0.05);}.panel-body{padding:15px;}.panel-body:before,.panel-body:after{content:" ";display:table;}.panel-body:after{clear:both;}.panel>.list-group{margin-bottom:0;}.panel>.list-group .list-group-item{border-width:1px 0;}.panel>.list-group .list-group-item:first-child{border-top-right-radius:0;border-top-left-radius:0;}.panel>.list-group .list-group-item:last-child{border-bottom:0;}.panel-heading+.list-group .list-group-item:first-child{border-top-width:0;}.panel>.table{margin-bottom:0;}.panel>.panel-body+.table{border-top:1px solid #dddddd;}.panel-heading{padding:10px 15px;border-bottom:1px solid transparent;border-top-right-radius:3px;border-top-left-radius:3px;}.panel-title{margin-top:0;margin-bottom:0;font-size:16px;}.panel-title>a{color:inherit;}.panel-footer{padding:10px 15px;background-color:#f5f5f5;border-top:1px solid #dddddd;border-bottom-right-radius:3px;border-bottom-left-radius:3px;}.panel-group .panel{margin-bottom:0;overflow:hidden;}.panel-group .panel+.panel{margin-top:5px;}.panel-group .panel-heading{border-bottom:0;}.panel-group .panel-heading+.panel-collapse .panel-body{border-top:1px solid #dddddd;}.panel-group .panel-footer{border-top:0;}.panel-group .panel-footer+.panel-collapse .panel-body{border-bottom:1px solid #dddddd;}.panel-default{border-color:#dddddd;}.panel-default>.panel-heading{color:#333333;background-color:#f5f5f5;border-color:#dddddd;}.panel-default>.panel-heading+.panel-collapse .panel-body{border-top-color:#dddddd;}.panel-default>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#dddddd;}.panel-primary{border-color:#428bca;}.panel-primary>.panel-heading{color:#ffffff;background-color:#428bca;border-color:#428bca;}.panel-primary>.panel-heading+.panel-collapse .panel-body{border-top-color:#428bca;}.panel-primary>.panel-footer+.panel-collapse .panel-body{border-bottom-color:#428bca;}
