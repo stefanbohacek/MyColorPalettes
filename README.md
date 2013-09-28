@@ -27,6 +27,6 @@ The structure of each block is fairly simple:
 }
 ```
 
-You can see an example page on http://fourtonfish.com/my-color-palettes/. You can search through your collection by palette name, tags and the optional color names. On the page above, try  to search for _favorite_, _bright_ or _jet black.
+You can see an example page on http://fourtonfish.com/my-color-palettes/. You can search through your collection by palette name, tags and the optional color names. On the page above, try  to search for _favorite_, _bright_ or _jet black_.
 
 This really is a very simple tool. If there is enough interest and time, I would like to turn this into a more advanced app with user-friendly palette editor, ability to arrange the palettes and more.
